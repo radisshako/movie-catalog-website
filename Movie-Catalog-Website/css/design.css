@@ -1,0 +1,117 @@
+/*Setting the overall html margins and background colour */
+html{
+    margin-left: 20%;
+    margin-right: 20%;
+    background-color:#FAF9F6;
+ }
+ /*Displaying the container div as a grid with each item sub div in different areas */
+.container {
+    display: grid; 
+    grid-template-columns: auto;
+    grid-template-rows: auto;
+    grid-template-areas: "div1 div1 div2" "div1 div1 div2"  "div3 div3 div3"; 
+}
+/*dispalying div1 as a grid in div1 area with top margin set */
+.div1{ 
+    grid-area: div1;
+    margin-top: 50px;
+}
+/*dispalying div2 as a grid in div2 area with top margin set */
+.div2{
+    margin-top: 50px;
+    grid-area: div2;
+}
+/*dispalying div3 as a grid in div3 area with top margin set */
+.div3{
+    margin-top: 20px;
+    grid-area: div3;
+}
+/*Setting the size and postition of list type */
+ul{
+    position:relative;
+    font-size: 35px;
+}
+/*Setting image width and height */
+img{
+    width: 400px;
+    height: 574px;
+}
+/*Setting page 1 button as a block with colour and shape set*/
+#page1{
+    display: block;
+    background: #27ae60;
+    color: white;
+    border-radius: 5px;
+    height: 50px;
+    width: 150px;
+    margin-top: 100px;
+    margin-left: 30%;
+
+}
+/*Page header dispalyed as block with width and height set */
+.page_header{
+    display: block;
+    background-color: #212f3c ;
+    width: 100%;
+    height: 90px;
+}
+/*Header h1 span font weight set */
+.h1_container h1 span{
+    font-weight: 900;
+}
+/*sub header font and display style set */
+.sub_header{
+    width: 700px;
+    height: 100%;
+    display: block;
+    margin: 4 auto;
+
+}
+/*h1 tag font dispaly style and colour set */
+.h1_container h1{
+    font-size: 32px;
+    font-weight: 300;
+    vertical-align: middle;
+    font-family:Verdana;
+    color:  #e5e8e8;
+    height: 100%;
+    display: table-cell;
+}
+/*h1 contianer display style and height set */
+.h1_container{
+    display: table;
+    float: left;
+    height: 100%;
+
+}
+/*Blurb font, colour and margins set */
+#blurb{
+    font-family: sans-serif,Verdana, Tahoma, sans-serif;
+    font-size: 2em;
+    margin-left: 15%;
+    margin-right: 15%;
+    font-weight:100;
+    color: #154360;
+}
+/*Span for blurb colour to red */
+#blurb span{
+    font-weight: 500;
+    color:#cd6155;
+}
+/*spans in div1 class colour to blue and font bold */
+.div1 span{
+    color:  #1f618d;
+    font-weight: bold;
+}
+/*Image tag border type and colour set */
+img {
+     border: 15px inset  #34495e ;
+} 
+/*div 3 class colour border properties and padding set */  
+.div3{
+    background-color:  #ecf0f1;
+    border: 5px outset #566573;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+}

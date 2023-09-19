@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<catalog>
+    <movie id="mv1">
+        <title>The Godfather Part I</title>
+        <director>Francis Ford Coppola</director>
+        <length>175</length>
+        <rating>9.2</rating>
+        <year>1972</year>
+        <image>../images/mv1.jpg</image>
+        <alt>Man in Tuxedo, looks into the distance with one hand raised.</alt>
+        <blurb>The Godfather is a 1972 American crime film directed by Francis Ford Coppola, who co-wrote the screenplay with Mario Puzo, based on Puzo's best-selling 1969 novel of the same name.
+         The film stars Marlon Brando, Al Pacino, James Caan, Richard Castellano, Robert Duvall, Sterling Hayden, John Marley, Richard Conte, and Diane Keaton.
+          It is the first installment in The Godfather trilogy, chronicling the Corleone family under patriarch Vito Corleone (Brando) from 1945 to 1955.
+           It focuses on the transformation of his youngest son, Michael Corleone (Pacino), from reluctant family outsider to ruthless mafia boss. </blurb>
+        <link>https://en.wikipedia.org/wiki/The_Godfather</link>
+    </movie>
+    <movie id="mv2">
+        <title>The Godfather Part II</title>
+        <director>Francis Ford Coppola</director>
+        <length>202</length>
+        <rating>9</rating>
+        <year>1974</year>
+        <image>../images/mv2.jpg</image>
+        <alt>Man in suit, sitting on a couch looking forward with a serious look</alt>
+        <blurb>The Godfather Part II is a 1974 American epic crime film produced and directed by Francis Ford Coppola. 
+        The film is partially based on the 1969 novel The Godfather by Mario Puzo, who co-wrote the screenplay with Coppola. 
+        Part II serves as both a sequel and a prequel to the 1972 film The Godfather, presenting parallel dramas: one picks up the 1958 story of Michael Corleone (Al Pacino),
+         the new Don of the Corleone family, protecting the family business in the aftermath of an attempt on his life; the prequel covers the journey of his father, Vito Corleone (Robert De Niro), 
+         from his Sicilian childhood to the founding of his family enterprise in New York City.
+          The ensemble cast also features Robert Duvall, Diane Keaton, Talia Shire, Morgana King, John Cazale, Mariana Hill, and Lee Strasberg. </blurb>
+        <link>https://en.wikipedia.org/wiki/The_Godfather_Part_II</link>
+    </movie>
+    <movie id="mv3">
+        <title>Goodfellas</title>
+        <director>Martin Scorsese</director>
+        <length>146</length>
+        <rating>8.7</rating>
+        <year>1990</year>
+        <image>../images/mv3.jpg</image>
+        <alt>Three men in suits look directly forward, superimposed on image of an injured/dead man laying on the street</alt>
+        <blurb>Goodfellas (stylized GoodFellas) is a 1990 American biographical crime film directed by Martin Scorsese, written by Nicholas Pileggi
+         and Scorsese, and produced by Irwin Winkler. It is a film adaptation of the 1985 nonfiction book Wiseguy by Pileggi. Starring Robert De Niro, Ray Liotta, Joe Pesci, Lorraine Bracco
+          and Paul Sorvino, the film narrates the rise and fall of mob associate Henry Hill
+         and his friends and family from 1955 to 1980. </blurb>
+        <link>https://en.wikipedia.org/wiki/Goodfellas</link>
+    </movie>
+    <movie id="mv4">
+        <title>Heat</title>
+        <director>Michael Mann</director>
+        <length>170</length>
+        <rating>8.3</rating>
+        <year>1995</year>
+        <image>../images/mv4.jpg</image>
+        <alt>Man holding an M16 Rifle transposed on background of two men</alt>
+        <blurb>Heat is a 1995 American crime drama film written and directed by Michael Mann.
+         It features an ensemble cast led by Al Pacino and Robert De Niro, with Tom Sizemore,
+          Jon Voight, and Val Kilmer in supporting roles.
+           The film follows the conflict between an LAPD detective, played by Pacino, and a career
+            thief, played by De Niro, while also depicting its effect on their professional relationships and personal lives. </blurb>
+        <link>https://en.wikipedia.org/wiki/Heat_(1995_film)</link>
+    </movie>
+    <movie id="mv5">
+        <title>Casino</title>
+        <director>Martin Scorsese</director>
+        <length>178</length>
+        <rating>8.2</rating>
+        <year>1996</year>
+        <image>../images/mv5.jpg</image>
+        <alt>Two men in suits look towards the camera with serious looks,
+         one holds two die, a woman looks up with a confused expression</alt>
+        <blurb>Casino is a 1995 American epic crime film directed by Martin Scorsese,
+         produced by Barbara De Fina and distributed by Universal Pictures.
+          It is based on the 1995 nonfiction book Casino: Love and Honor in Las Vegas by Nicholas Pileggi, who also co-wrote
+           the screenplay along with Scorsese. It stars Robert De Niro,
+           Sharon Stone, Joe Pesci, Don Rickles, Kevin Pollak and James Woods.
+         The film was the eighth collaboration between director Scorsese and De Niro. </blurb>
+        <link>https://en.wikipedia.org/wiki/Casino_(1995_film)</link>
+    </movie>
+    <movie id="mv6">
+        <title>American Gangster</title>
+        <director>Ridley Scott</director>
+        <length>157</length>
+        <rating>7.8</rating>
+        <year>2007</year>
+        <image>../images/mv6.jpg</image>
+        <alt>Two men in suits stand in a full body portrait, one holds a gun,
+         both faces are obscured</alt>
+        <blurb>American Gangster is a 2007 American biographical crime film directed and produced by Ridley Scott and 
+        written by Steven Zaillian. The film is fictionally based on the criminal career of
+         Frank Lucas, a gangster from La Grange, North Carolina who smuggled heroin into the United States on American service
+          planes returning from the Vietnam War, before being detained by a task force led by detective Richie Roberts.
+           The film stars Denzel Washington and Russell Crowe with co-stars Ted Levine, John Ortiz, Josh Brolin,
+         Chiwetel Ejiofor, Norman Reedus, Ruby Dee, Lymari Nadal and Cuba Gooding Jr. </blurb>
+        <link>https://en.wikipedia.org/wiki/American_Gangster_(film)</link>
+    </movie>
+    <movie id="mv7">
+        <title>Once Upon a Time in America</title>
+        <director>Sergio Leone</director>
+        <length>251</length>
+        <rating>8.3</rating>
+        <year>1984</year>
+        <image>../images/mv7.jpg</image>
+        <alt>In the foreground five kids walk in the street, in the backgound is the broklyn bridge</alt>
+        <blurb>Once Upon a Time in America (Italian: C'era una volta in America) is a 1984 epic crime
+         film co-written and directed by Italian filmmaker Sergio Leone and starring 
+         Robert De Niro and James Woods. The film is an Italian–American venture produced by The Ladd Company,
+          Embassy International Pictures, PSO Enterprises, and Rafran Cinematografica, and distributed by
+           Warner Bros. Based on Harry Grey's novel The Hoods, it chronicles the lives of best friends David "Noodles" Aaronson and Maximilian "Max" Bercovicz 
+           as they lead a group of Jewish ghetto youths who rise to prominence as Jewish gangsters in New York City's world of organized crime.
+            The film explores themes of childhood friendships, love, lust, greed, betrayal, loss,
+         broken relationships, together with the rise of mobsters in American society. </blurb>
+        <link>https://en.wikipedia.org/wiki/Once_Upon_a_Time_in_America</link>
+    </movie>
+    <movie id="mv8">
+        <title>Scarface</title>
+        <director>Brian De Palma</director>
+        <length>170</length>
+        <rating>8.3</rating>
+        <year>1983</year>
+        <image>../images/mv8.jpg</image>
+        <alt>Man in white 1970s style suit holds a pistol while looking at the ground</alt>
+        <blurb>Scarface is a 1983 American crime drama film directed by Brian De Palma 
+        and written by Oliver Stone. Loosely based on the 1929 novel of the same name and
+         serving as a loose remake of the 1932 film, it tells the story of Cuban refugee
+          Tony Montana (Al Pacino), who arrives penniless in Miami during the Mariel boatlift
+           and becomes a powerful and extremely homicidal drug lord. The film co-stars Steven Bauer, Michelle Pfeiffer,
+           Mary Elizabeth Mastrantonio and Robert Loggia. De Palma dedicated this version
+         of Scarface to the writers of the original film, Howard Hawks and Ben Hecht</blurb>
+        <link>https://en.wikipedia.org/wiki/Scarface_(1983_film)</link>
+    </movie>
+    <movie id="mv9">
+        <title>King of New York</title>
+        <director>Abel Ferrara</director>
+        <length>103</length>
+        <rating>6.9</rating>
+        <year>1990</year>
+        <image>../images/mv9.jpg</image>
+        <alt>A man and a woman look out a window in a high rise building</alt>
+        <blurb>King of New York is a 1990 neo-noir gangster film directed by Abel Ferrara and written by
+         Nicholas St. John. It stars Christopher Walken as a New York City drug kingpin rebuilding his 
+         criminal empire after his release from prison, while also attempting to go legitimate. Laurence Fishburne,
+          David Caruso, Victor Argo and Wesley Snipes co-star, with supporting roles played by Giancarlo Esposito,
+           Steve Buscemi, Paul Calderón, Janet Julian and Theresa Randle. It was released by Carolco Pictures
+            (through New Line Cinema) on September 22, 1990, to generally positive reviews. </blurb>
+        <link>https://en.wikipedia.org/wiki/King_of_New_York</link>
+    </movie>
+    <movie id="mv10">
+        <title>The French Connection</title>
+        <director>William Friedkin</director>
+        <length>104</length>
+        <rating>7.7</rating>
+        <year>1971</year>
+        <image>../images/mv10.jpg</image>
+        <alt>Man climbing stairs screaming after being shot by man at the bottom of the staircase with a pistol</alt>
+        <blurb>The French Connection is a 1971 American crime action thriller film directed by William Friedkin.
+         The screenplay, written by Ernest Tidyman, is based on Robin Moore's 1969 book of the same name.
+          It tells the story of NYPD detectives Jimmy "Popeye" Doyle and Buddy "Cloudy" Russo, whose real-life counterparts 
+          were Narcotics Detectives Eddie Egan and Sonny Grosso, in pursuit of wealthy French heroin smuggler Alain Charnier.
+           The film stars Gene Hackman as Popeye, Roy Scheider as Cloudy, and Fernando Rey as Charnier. Tony Lo Bianco and 
+           Marcel Bozzuffi also star. </blurb>
+        <link>https://en.wikipedia.org/wiki/The_French_Connection_(film)</link>
+    </movie>
+    <movie id="mv11">
+        <title>The Untouchables</title>
+        <director>Brian De Palma</director>
+        <length>119</length>
+        <rating>7.9</rating>
+        <year>1987</year>
+        <image>../images/mv11.jpg</image>
+        <alt>In the foreground 5 police officers hold various guns, Al capone appears in a larger background image smoking a cigar </alt>
+        <blurb>The Untouchables is a 1987 American crime film directed by Brian De Palma, produced by
+         Art Linson, and written by David Mamet. The film is loosely based on the book of the same name (1957)
+          and the real-life events it was based on, but most of its plot is fictionalized. The film stars Kevin Costner
+          , Charles Martin Smith, Andy García, Robert De Niro (third collaboration between De Palma and De Niro,
+           following 1968's Greetings and 1970's Hi, Mom!), and Sean Connery, and follows Eliot Ness (Costner) as he forms
+            the Untouchables team to bring Al Capone (De Niro) to justice during Prohibition. The Grammy Award–nominated 
+            score was composed by Ennio Morricone and features period music by Duke Ellington. </blurb>
+        <link>https://en.wikipedia.org/wiki/The_Untouchables_(film)</link>
+    </movie>
+    <movie id="mv12">
+        <title>New Jack City</title>
+        <director>Mario Van Peebles</director>
+        <length>100</length>
+        <rating>6.6</rating>
+        <year>1991</year>
+        <image>../images/mv12.jpg</image>
+        <alt>Three men stand in the foreground, in the background is a man with a cigarettte and a gun</alt>
+        <blurb>New Jack City is a 1991 American action crime film based upon an original story and written by Thomas Lee Wright
+         and Barry Michael Cooper, and directed by Mario Van Peebles in his feature film directorial debut as he also co-stars 
+         in the film. The film stars Wesley Snipes, Ice-T, Allen Payne, Chris Rock, Mario Van Peebles, Judd Nelson, and Bill Cobbs.
+          The film was released in the United States on March 8, 1991.</blurb>
+        <link>https://en.wikipedia.org/wiki/New_Jack_City</link>
+    </movie>
+    <movie id="mv13">
+        <title>Mean Streets</title>
+        <director>Martin Scorsese</director>
+        <length>112</length>
+        <rating>7.2</rating>
+        <year>1973</year>
+        <image>../images/mv13.jpg</image>
+        <alt>An illustration of a cityscape with a hand holding a pistol shaped like a building</alt>
+        <blurb>Mean Streets is a 1973 American crime film directed by Martin Scorsese and co-written by Scorsese and Mardik Martin.
+         The film stars Harvey Keitel and Robert De Niro. It was released by Warner Bros. on October 2, 1973. De Niro won the 
+         National Society of Film Critics and the New York Film Critics Circle award for Best Supporting Actor for his role as 
+         "Johnny Boy" Civello. </blurb>
+        <link>https://en.wikipedia.org/wiki/Mean_Streets</link>
+    </movie>
+    <movie id="mv14">
+        <title>Donnie Brasco</title>
+        <director>Mike Newell</director>
+        <length>127</length>
+        <rating>7.7</rating>
+        <year>1997</year>
+        <image>../images/mv14.jpg</image>
+        <alt>The view of a camera zoomed in on two men exiting some building</alt>
+        <blurb>Donnie Brasco is a 1997 American crime drama film directed by Mike Newell, and starring Al Pacino
+         and Johnny Depp. Michael Madsen, Bruno Kirby, James Russo, and Anne Heche appeared in supporting roles.
+          The film, written by Paul Attanasio, is based on the 1988 nonfiction book Donnie Brasco: My Undercover Life
+           in the Mafia by Joseph D. Pistone and Richard Woodley.</blurb>
+        <link>https://en.wikipedia.org/wiki/Donnie_Brasco_(film)</link>
+    </movie>
+    <movie id="mv15">
+        <title>The Departed</title>
+        <director>Martin Scorsese</director>
+        <length>151</length>
+        <rating>8.5</rating>
+        <year>2006</year>
+        <image>../images/mv15.jpg</image>
+        <alt>The faces of three men, appearing in the background of the words The Departed</alt>
+        <blurb>The Departed is a 2006 American epic crime thriller film directed by Martin Scorsese and written by William Monahan.
+         It is both a remake of the 2002 Hong Kong film Infernal Affairs and also loosely based on the real-life Boston Winter Hill Gang;
+          the character Colin Sullivan is based on the corrupt FBI agent John Connolly, while the character Frank Costello is based on 
+          Irish-American gangster Whitey Bulger. The film stars Leonardo DiCaprio, Matt Damon, Jack Nicholson, and Mark Wahlberg, 
+          with Martin Sheen, Ray Winstone, Vera Farmiga, and Alec Baldwin in supporting roles.</blurb>
+        <link>https://en.wikipedia.org/wiki/The_Departed</link>
+    </movie>
+    <movie id="mv16">
+        <title>Boyz N the Hood</title>
+        <director>John Singleton</director>
+        <length>112</length>
+        <rating>7.8</rating>
+        <year>1991</year>
+        <image>../images/mv16.jpg</image>
+        <alt>Two men leaning on a car, one man in the drivers seat looking backwards</alt>
+        <blurb>Boyz n the Hood is a 1991 American coming-of-age hood drama film written and directed by John Singleton in his
+         feature directorial debut. It stars Cuba Gooding Jr., Morris Chestnut, Ice Cube, Laurence Fishburne, Nia Long, Regina King, 
+         and Angela Bassett. Boyz n the Hood follows Tre Styles (Gooding Jr.), who is sent to live with his father Furious Styles (Fishburne)
+          in South Central Los Angeles, surrounded by the neighborhood's booming gang culture. The film's title is a double entendre:
+           a play on the term boyhood and a reference to the 1987 Eazy-E rap song of the same name, written by Ice Cube. </blurb>
+        <link>https://en.wikipedia.org/wiki/Boyz_n_the_Hood</link>
+    </movie>
+    <movie id="mv17">
+        <title>Millers Crossing</title>
+        <director>Ethan Coen</director>
+        <length>115</length>
+        <rating>7.7</rating>
+        <year>1974</year>
+        <image>../images/mv17.jpg</image>
+        <alt>One man holds a gun in the woods, with a another man on his knees before him</alt>
+        <blurb>Miller's Crossing is a 1990 American neo-noir gangster film written, directed and produced by the Coen brothers 
+        and starring Gabriel Byrne, Marcia Gay Harden, John Turturro, Jon Polito, J. E. Freeman, and Albert Finney.
+         The plot concerns a power struggle between two rival gangs and how the protagonist, Tom Reagan (Byrne), plays both sides against each other. </blurb>
+        <link>https://en.wikipedia.org/wiki/Miller%27s_Crossing</link>
+    </movie>
+    <movie id="mv18">
+        <title>The Usual Suspects</title>
+        <director>Bryan Singer</director>
+        <length>106</length>
+        <rating>8.5</rating>
+        <year>1995</year>
+        <image>../images/mv18.jpg</image>
+        <alt>Five men in a police lineup</alt>
+        <blurb>The Usual Suspects is a 1995 drama film directed by Bryan Singer and written by Christopher McQuarrie. 
+        It stars Stephen Baldwin, Gabriel Byrne, Benicio del Toro, Kevin Pollak, Chazz Palminteri, Pete Postlethwaite, and Kevin Spacey.
+        The plot follows the interrogation of Roger "Verbal" Kint, a small-time con man, who is one of only two survivors 
+        of a massacre and fire on a ship docked at the Port of Los Angeles.</blurb>
+        <link>https://en.wikipedia.org/wiki/The_Usual_Suspects</link>
+    </movie>
+    <movie id="mv19">
+        <title>Road To Perdition</title>
+        <director>Sam Mendes</director>
+        <length>117</length>
+        <rating>6.4</rating>
+        <year>2002</year>
+        <image>../images/mv19.jpg</image>
+        <alt>Three mens faces in the background,
+         with a man holding a submachine gun, walking with a child in the foreground</alt>
+        <blurb>Road to Perdition is a 2002 American crime drama film directed by Sam Mendes. The screenplay was adapted by David Self 
+        from the graphic novel of the same name written by Max Allan Collins and illustrated by Richard Piers Rayner. The film stars Tom Hanks,
+         Paul Newman (in his final live-action theatrical film acting role), Jude Law, and Daniel Craig. The plot takes place in 1931,
+          during the Great Depression, following a mob enforcer and his son as they seek vengeance against a mobster who murdered the rest of their family. </blurb>
+        <link>https://en.wikipedia.org/wiki/Road_to_Perdition</link>
+    </movie>
+    <movie id="mv20">
+        <title>Snatch</title>
+        <director>Guy Ritchie</director>
+        <length>102</length>
+        <rating>8.2</rating>
+        <year>2000</year>
+        <image>../images/mv20.jpg</image>
+        <alt>Six men in various types of clothing looking forward, one man holds a white dog on a leash</alt>
+        <blurb>Snatch (stylized as snatch.) is a 2000 crime comedy film written and directed by Guy Ritchie, featuring an ensemble cast.
+         Set in the London criminal underworld, the film contains two intertwined plots: one dealing with the search for a stolen diamond,
+          the other with a small-time boxing promoter (Jason Statham) who finds himself under the thumb of a ruthless gangster (Alan Ford)
+           who is ready and willing to have his subordinates carry out severe and sadistic acts of violence.</blurb>
+        <link>https://en.wikipedia.org/wiki/Snatch_(film)</link>
+    </movie>
+</catalog>
